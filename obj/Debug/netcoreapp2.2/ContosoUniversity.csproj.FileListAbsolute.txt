@@ -1,0 +1,7 @@
+C:\Users\leviw\Documents\school\dotnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\leviw\Documents\school\dotnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leviw\Documents\school\dotnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\leviw\Documents\school\dotnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
+C:\Users\leviw\Documents\school\dotnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\leviw\Documents\school\dotnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\leviw\Documents\school\dotnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cs
