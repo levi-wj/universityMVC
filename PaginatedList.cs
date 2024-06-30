@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ContosoUniversity
 {
+    // This class is cool, it takes in a list of any type and returns a class that can split up the list into multiple pages
     public class PaginatedList<T> : List<T>
     {
         public int PageIndex { get; private set; }
